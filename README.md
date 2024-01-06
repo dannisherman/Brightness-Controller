@@ -1,3 +1,3 @@
 # Brightness-Controller
-HTMl and CSS
+HTML and CSS
  https://dannisherman.github.io/Brightness-Controller/
